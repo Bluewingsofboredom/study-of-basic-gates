@@ -82,9 +82,9 @@ assign c[6]=~a;
 endmodule
 ```
 **Logic symbol & Truthtable**
-![alt text](<../Downloads/WhatsApp Image 2024-11-15 at 13.30.31.jpeg>)
+![alt text](<WhatsApp Image 2024-11-15 at 13.30.31.jpeg>)
 **RTL realization Output:** 
-![alt text](im3.png)
+![alt text](<im3 new.png>)
 **RTL**
 ![alt text](LogicGates1image.png)
 **Result:**
