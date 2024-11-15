@@ -66,14 +66,15 @@ Y= A⊕B
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 
- Developed by: RegisterNumber: 
+ Developed by: Prathik T.S RegisterNumber: 24000205
  
 **Logic symbol & Truthtable**
 
+[text](README.md)
 **RTL realization Output:** 
-
+![alt text](im3.png)
 **RTL**
-
+![alt text](LogicGates1image.png)
 **Result:**
 
-
+The truth table of logic gates in Quartus II using Verilog programming has been successfully verified.
